@@ -1,26 +1,28 @@
 # Riot.js TodoMVC Example
 
-> Riot.js is a React-like user interface micro-library.
+> Simple and elegant component-based UI library
 
 > Riot is against the current trend of boilerplate and unneeded complexity. The team think that a small, powerful API and concise syntax are extremely important things on a client-side library.
 
-> _[Riot.js - riotjs.com](http://riotjs.com/)_
+> _[Riot.js - riot.js.org](https://riot.js.org/)_
 
 
 ## Resources
 
-- [Website](http://riotjs.com/)
-- [Documentation](http://riotjs.com/guide/)
-- [FAQ](http://riotjs.com/faq/)
+- [Website](https://riot.js.org/)
+- [Documentation](https://riot.js.org/documentation/)
+- [FAQ](https://riot.js.org/faq/)
 
 ### Articles
 
-- [Compare Riot with React and Polymer](http://riotjs.com/compare/)
 - [The react tutorial for riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
+- [Every revolution begins with a Riot.js first](https://medium.com/@gianluca.guarini/every-revolution-begins-with-a-riot-js-first-6c6a4b090ee)
 
 ### Support
 
 - [Gitter chat room](https://gitter.im/riot/riot)
+- [Slack(ja)](https://discord.gg/PagXe5Y)
+- [Discord](https://discordapp.com/invite/PagXe5Y)
 
 *Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
 
